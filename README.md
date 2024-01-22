@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Praful Thangappa. I am working as Software Developer in Mumbai. I have experience in Java, Python and SQL. Reach me @prafulthangappa44@gmail.com. 
+- 👋 Hi, I’m Praful Thangappa. I am working as Software Developer in Mumbai. I have experience in Java and SQL. Reach me @prafulthangappa44@gmail.com. 
 
 
 <!---
